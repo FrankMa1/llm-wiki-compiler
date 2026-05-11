@@ -4,10 +4,9 @@ A knowledge compiler CLI. Raw sources in, interlinked wiki out.
 
 ## Contributor Context
 
-This guide is self-contained for this repository. Do not assume access to a
-parent workspace, private planning docs, or cross-repo agent instructions.
-Before changing code, read `README.md`, `package.json`, and the local files
-around the code path you plan to modify.
+Use this file as the repo-local contributor guide. Before changing code, read
+`README.md`, `package.json`, and the local files around the code path you plan
+to modify.
 
 ## Development Guidelines
 
