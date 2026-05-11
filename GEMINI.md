@@ -2,6 +2,13 @@
 
 A knowledge compiler CLI. Raw sources in, interlinked wiki out.
 
+## Contributor Context
+
+This guide is self-contained for this repository. Do not assume access to a
+parent workspace, private planning docs, or cross-repo agent instructions.
+Before changing code, read `README.md`, `package.json`, and the local files
+around the code path you plan to modify.
+
 ## Development Guidelines
 
 ### Code Style & Standards
@@ -44,4 +51,3 @@ Before committing any work, and before considering any task complete, you must:
 - First think through the problem, read the codebase for relevant files.
 - Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
 - Never speculate about code you have not opened. If the user references a specific file, you MUST read the file before answering. Make sure to investigate and read relevant files BEFORE answering questions about the codebase. Never make any claims about code before investigating unless you are certain of the correct answer - give grounded and hallucination-free answers.
-
